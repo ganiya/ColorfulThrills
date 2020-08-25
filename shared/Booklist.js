@@ -1,0 +1,77 @@
+export const Booklists = [
+    { id: 0,
+        name: "The Ninja's blade - Book Two",
+        image: "../assets/blade.jpeg",
+        year: 2020,
+        author: " Tori Eldridge ",
+       
+        featured: false,
+        description: "Life would be easier if Lily knew who to trust. But when victims are villains, villains are victims, and even family is plotting against her, easy is not an option. All Lily can do is follow the trail wherever it leads: through a high school campus polarized by racial tension or the secret back rooms of a barber/tattoo/brothel or the soul-crushing stretch of Long Beach Boulevard known as The Blade. She relies on her ninja skills to deceive and infiltrate, rescue and kill--whatever is necessary to free the girls from their literal and figurative slavery. If only those same skills could keep Lily's conniving grandparents from hijacking her future."
+    },
+      { id: 1,
+        name: "Little Secrets: A Novel",
+        image: "../assets/butcher.jpg",
+        author: "Jennifer Hillier ",
+        year: 2020,
+        featured: false,
+        description: "Marin had the perfect life. Married to her college sweetheart, she owns a chain of upscale hair salons, and Derek runs his own company. They're admired in their community and are a loving family—until their world falls apart the day their son Sebastian is taken. A year later, Marin is a shadow of herself. The FBI search has gone cold. The publicity has faded. She and her husband rarely speak. She hires a P.I. to pick up where the police left off, but instead of finding Sebastian, she learns that Derek is having an affair with a younger woman. This discovery sparks Marin back to life. She's lost her son; she's not about to lose her husband, too. Kenzie is an enemy with a face, which means this is a problem Marin can fix."
+    },
+      { id: 2,
+        name: "The Butcher",
+        image: "../assets/butcher.jpg",
+        author: "Jennifer Hillier ",
+        year: 2014,
+        featured: false,
+        description: "Marin had the perfect life. Married to her college sweetheart, she owns a chain of upscale hair salons, and Derek runs his own company. They're admired in their community and are a loving family—until their world falls apart the day their son Sebastian is taken. A year later, Marin is a shadow of herself. The FBI search has gone cold. The publicity has faded. She and her husband rarely speak. She hires a P.I. to pick up where the police left off, but instead of finding Sebastian, she learns that Derek is having an affair with a younger woman. This discovery sparks Marin back to life. She's lost her son; she's not about to lose her husband, too. Kenzie is an enemy with a face, which means this is a problem Marin can fix."
+    },
+       { id: 8,
+        name: "The Cipher",
+        image: "../assets/cipher.jpg",
+        author: "Isabella Maldonado ",
+        year: 2020,
+        featured: false,
+        description: "To a cunning serial killer, she was the one that got away. Until now...FBI Special Agent Nina Guerrera escaped a serial killer's trap at sixteen. Years later, when she's jumped in a Virginia park, a video of the attack goes viral. Legions of new fans are not the only ones impressed with her fighting skills. The man who abducted her eleven years ago is watching. Determined to reclaim his lost prize, he commits a grisly murder designed to pull her into the investigation...but his games are just beginning. And he's using the internet to invite the public to play along."
+    },
+    { id: 3,
+        name: "The Eight Girl",
+        image: "../assets/maxine.jpg",
+        author: "Isabella Maldonado ",
+        year: 2020,
+        featured: false,
+        description: "When Ella gets a job at a high-end gentleman’s club, she catches the attention of its shark-like owner and is gradually drawn into his inner circle. As Alexa’s world becomes intimately entangled with Ella’s, she soon finds herself the unwitting keeper of a nightmarish secret. With no one to turn to and lives at stake, she follows Ella into London’s cruel underbelly on a daring rescue mission. Threatened and vulnerable, Alexa will discover whether her multiple personalities are her greatest asset, or her most dangerous obstacle."
+    },
+       { id: 4,
+        name: "The Ripper",
+        image: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1422871316l/18090150.jpg",
+        author: "Isabel Allende",
+        year: 2014,
+        featured: false,
+        description: "When a string of strange murders occurs across the city, Amanda plunges into her own investigation, discovering, before the police do, that the deaths may be connected. But the case becomes all too personal when Indiana suddenly vanishes. Could her mother's disappearance be linked to the serial killer? Now, with her mother's life on the line, the young detective must solve the most complex mystery she's ever faced before it's too late."
+    },
+    { id: 5,
+        name: "Opium and Absinthe",
+        image: "https://images-na.ssl-images-amazon.com/images/I/51BK+7Ze-bL._SX310_BO1,204,203,200_.jpg",
+        author: "Isabella Maldonado ",
+        year: 2020,
+        featured: false,
+        description: "When Ella gets a job at a high-end gentleman’s club, she catches the attention of its shark-like owner and is gradually drawn into his inner circle. As Alexa’s world becomes intimately entangled with Ella’s, she soon finds herself the unwitting keeper of a nightmarish secret. With no one to turn to and lives at stake, she follows Ella into London’s cruel underbelly on a daring rescue mission. Threatened and vulnerable, Alexa will discover whether her multiple personalities are her greatest asset, or her most dangerous obstacle."
+    },
+       { id: 6,
+        name: "Exiled",
+        image: "https://m.media-amazon.com/images/I/41sekLoJq3L.jpg",
+        author: " Lisa Ryan Campbell",
+        year: 2018,
+        featured: false,
+        description: "Four years ago, Shannon confessed to the murder of local playboy, Cody Spencer. The only problem is there was no body found or a motive. Four years later, she is being released from prison to return to the town that now considers her an enemy, including her ex-husband, the man whose brother she killed. But despite his hate towards her, Shannon believes Gray is in danger from an evil that did not die that night."
+    },
+   { id: 7,
+        name: "Chaos, Desire & A Kick-Ass Cupcake",
+        image: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506641466l/36321107._SY475_.jpg",
+        author: " Kyra Davis",
+        year: 2017,
+        featured: false,
+        description: "Mystery writer and dabbling amateur sleuth, Sophie Katz, knows her career and her fiery love affair with P.I. boyfriend, Anatoly Darinsky can survive anything except decaf and boredom. So, when Anatoly passes up a mysterious stalker case, Sophie decides to take it on herself…just for the drama of it all."
+    },
+
+
+    ];
